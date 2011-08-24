@@ -97,11 +97,19 @@
 # Movimiento
 
 * Autocompletar (TAB)
-* ctrl-a Inicio de linea
-* ctrl-e Fin de linea
+* CTRL+a Inicio de linea
+* CTRL+e Fin de linea
 * flecha arriba | Navegar por la historia
-* ctrl-r | reverse search
+* CTRL+r | reverse search
 * history | ver la historia
+
+!SLIDE bullets
+
+* ESC+f forward 1 word
+* ESC+b backward 1 word
+* ESC+t transpose
+* CRTL+u delete line
+* CTRL+l
     
 !SLIDE commandline
 
@@ -156,6 +164,6 @@
 
 # Referencias
 
-* http://www.ice2o.com/bash_quick_ref.html
+* http://maymay.net/blog/2007/07/18/list-of-default-mac-os-x-command-line-editing-bash-keyboard-shortcuts/
 * http://www.guia-ubuntu.org/index.php?title=Terminal
 * https://github.com/victorcoder/dotfiles
