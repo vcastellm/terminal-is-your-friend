@@ -1,10 +1,19 @@
-!SLIDE bullets
-
+!SLIDE
 # Hola!
 
-* Victor Castell
-* @victorcoder
-* http://github.com/victorcoder
+!SLIDE 
+# Sobre mi
+
+!SLIDE
+# Victor Castell
+
+!SLIDE
+# @victorcoder
+# http://github.com/victorcoder
+
+!SLIDE
+# CTO y socio en: 
+# Season + eukaliptus.com
 
 !SLIDE bullets incremental
 
@@ -14,11 +23,14 @@
 * bash - Bourne Again Shell
 * Evolución de sh - Bourne Shell
 
-!SLIDE bullets incremental
-
+!SLIDE center
 # No es complicado
 
-* ¿Porque lo usamos en UNIX?
+![mess](frustrated-guy-clarkk.jpeg)
+
+!SLIDE bullets incremental
+#¿Porque lo usamos en UNIX?
+
 * En UNIX es un entorno de programación
 * En Windows da mal jare
 
@@ -29,6 +41,12 @@
 * MacOS: Terminal.app / iTerm2.app
 * Linux: gnome-terminal, Konsole, xterm
 * Windows: nah!
+
+!SLIDE bullets incremental
+# ¿Como aprender?
+
+* Practica
+* Trucos de memória
 
 !SLIDE subsection
 # Navegación e interacción con ficheros
@@ -72,6 +90,8 @@
     $ pwd
     /Users/victorcoder/Documents/code/terminal-is-your-friend
 
+	$ open .
+
 !SLIDE bullets
 
 # Movimiento
@@ -90,15 +110,15 @@
     $ cat
     $ find <ruta(s)> <condición(es) de búsqueda> <acciones>
     $ chmod
+	$ open <ruta>
+	$ alias
     $ ll
     $ la
-    $ gca
-    $ gp
 
-## Ejecutar último comando 
+## Ejecutar último comando: flecha arriba o !!
 
-### flecha arriba + enter
-### !! + enter
+## Encadenar comandos: &&
+## Pipes: |
 
 !SLIDE subsection
 
@@ -126,11 +146,11 @@
     u  -- user
     +   -   \=
 
-!SLIDE bullets incremental
-
+!SLIDE
 # bash está en todas partes
 
-* bash mola mash!
+!SLIDE
+# bash mola mash!
 
 !SLIDE bullets
 
