@@ -38,8 +38,8 @@
 
 # ¿Opciones?
 
-* MacOS: Terminal.app / iTerm2.app
-* Linux: gnome-terminal, Konsole, xterm
+* MacOS: Terminal.app / iTerm.app
+* Linux: gnome-terminal, Konsole, xterm, etc...
 * Windows: nah!
 
 !SLIDE bullets incremental
