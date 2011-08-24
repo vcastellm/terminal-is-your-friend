@@ -11,9 +11,12 @@
 # @victorcoder
 # http://github.com/victorcoder
 
-!SLIDE
+!SLIDE center
 # CTO y socio en: 
-# Season + eukaliptus.com
+
+![season.es](Season.png)
+# +
+![eukaliptus.com](eukaliptus.png)
 
 !SLIDE bullets incremental
 
@@ -167,3 +170,6 @@
 * http://maymay.net/blog/2007/07/18/list-of-default-mac-os-x-command-line-editing-bash-keyboard-shortcuts/
 * http://www.guia-ubuntu.org/index.php?title=Terminal
 * https://github.com/victorcoder/dotfiles
+
+!SLIDE
+# ¡Gracias!

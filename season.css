@@ -19,3 +19,22 @@ h2, h3, h4, h5, h6 {
 .subsection {
 	background:#76b0d4;
 }
+
+#footer {
+ 	color: #444;
+    background: #FFF url('season.png') no-repeat 10px 5px;
+    text-align: center;
+    height: 28px;
+	top: -32px;
+}
+
+#footer:before {
+    content: 'You friend the terminal'
+}
+
+#footer #slideInfo {
+    float: right;
+    margin-right: 5px;
+    /*font-size: 90%;*/
+    text-align: right;
+}
