@@ -109,8 +109,8 @@
 * ESC+b backward 1 word
 * ESC+t transpose
 * CRTL+u delete line
-* CTRL+l
-    
+* CTRL+l clear screen
+
 !SLIDE commandline
 
 # Extras
